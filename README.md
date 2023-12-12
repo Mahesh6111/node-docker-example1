@@ -1,5 +1,5 @@
 # Running Node.js apps with docker - example code
-
+[![Build Status](https://dev.azure.com/maheshg611/project1/_apis/build/status%2FMahesh6111.node-docker-example1?branchName=master)](https://dev.azure.com/maheshg611/project1/_build/latest?definitionId=9&branchName=master)
 This repository is used as support of my video(https://www.youtube.com/watch?v=7rqavBlLFbg) about how to run node.js applications using docker. It includes examples of linked services, envioronment variables, node_modules optiomization and integration with npm 5 using package-lock to optimize dependency installation on image building.
 
 
